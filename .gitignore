@@ -1,0 +1,6 @@
+# Ignore venv folders
+**/venv/
+venv/
+venv
+
+Task4_CrimeAnalysisLA/crimes.csv
